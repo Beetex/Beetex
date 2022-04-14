@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Beetex
-- 👀 I’m interested in all things python related
-- 🌱 I’m currently learning how to become a full stack engineer
-- 💞️ I’m looking to collaborate on a retro snake app game for a marketing activation requested 
-- 📫 How to reach me "@Beetex21" on twitter 
+- 👋 Hi, I’m Bianca based in London and trying to visit all 194 countries in the world
+- 👀 I’m interested in all things development related things - mainly focusing on HTML, CSS, Java, C++, Python (for now)
+- 🌱 I’m currently learning how to become a full stack engineer whilst selling software solutions for high growth start ups (as my day job).
+- 💞️ I’m looking to collaborate on anything that will help me develop my skills
+- 📫 How to reach me... "@bee_soco" on twitter 
 
-<!---
-Beetex/Beetex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
